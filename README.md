@@ -10,8 +10,7 @@
 ```
 git clone https://github.com/liangliangle/music163playlist-down.git
 cd music163playlist
-javac Main.java
+javac  -encoding utf-8  Main.java
 java Main
 ```
-
 
